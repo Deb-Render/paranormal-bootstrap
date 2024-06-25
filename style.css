@@ -1,0 +1,17 @@
+ .carousel > .carousel-inner > .carousel-item > img{
+    width:100%;  
+    height:500px;
+   }
+
+   .custom-card {
+    max-width: 300px; /* Adjust this value as needed */
+    margin: 0 auto;   /* Center the card within its column */
+}
+
+.white {
+    color: white;
+}
+
+.mt-5 {
+    margin-top: 100px !important;
+}
